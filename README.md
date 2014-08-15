@@ -12,11 +12,17 @@
   
 #Usage
 ------------------
-  for clicked item set  class
+
     <div class="clickedClass">
       <div hide-on-blure="clickedClass hide" >
       </div>
     </div>
-  @class hide
-  for display:none;
+------------------
+#Class hide
+------------------
+
+    .hide{
+    display:none;
+    }
 -------------------
+
