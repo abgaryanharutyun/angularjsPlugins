@@ -10,12 +10,13 @@
   
     <script src="../directives/hideOnBlur.js"></script>
   
-#Example
-
+#Usage
+------------------
   for clicked item set  class
-  <div class="clickedClass">
-    <div hide-on-blure="clickedClass hide" >
-  </div>
- </div>
+    <div class="clickedClass">
+      <div hide-on-blure="clickedClass hide" >
+      </div>
+    </div>
   @class hide
   for display:none;
+-------------------
