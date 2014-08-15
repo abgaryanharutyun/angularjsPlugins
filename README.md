@@ -1,13 +1,13 @@
-Angular js directives
+#Angular js directives
   author Harutyun Abgaryan harutyunAbgaryan@gmail.com
-  hideOnBlure.js
-  version 0.1 v
+  #hideOnBlure.js
+  #version 0.1 v
   Directive hideOnBlur for toggle open and Close
-  Get Started
+  #Get Started
   
     <script src="../directives/hideOnBlur.js"></script>
   
-  Example
+  #Example
 
   for clicked item set  class
   <div class="clickedClass">
