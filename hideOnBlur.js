@@ -9,7 +9,11 @@
  * <script src="../directives/hideOnBlur.js"></script>
  * for clicked item set  class
  * <div class="clickedClass">
- *   <div hide-on-blure="clickedClass" 
+ *   <div hide-on-blure="clickedClass hide" >
+ * </div>
+ *</div>
+ * @class hide
+ * for display:none;
  */
 angular.module('App')
   .directive('hideOnBlur', function () {
